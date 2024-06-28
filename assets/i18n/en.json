@@ -1,0 +1,48 @@
+{
+  "GLOBAL": {
+    "HEADER": {
+      "NAVBAR": {
+        "LINKS": {
+          "CAREER": "Career",
+          "CONTACT": "Contact",
+          "EDUCATION": "Education",
+          "HOME": "Home",
+          "PROJECTS": "Projects"
+        }
+      }
+    },
+    "FOOTER": {}
+  },
+  "HOME": {},
+  "PROJECTS": {},
+  "CONTACT": {
+    "NAME": {
+      "LABEL": "Name",
+      "ERROR": {
+        "REQUIRED": "Name is required."
+      }
+    },
+    "EMAIL": {
+      "LABEL": "Email",
+      "ERROR": {
+        "REQUIRED": "Email is required.",
+        "EMAIL": "Must insert a valid email."
+      }
+    },
+    "SUBJECT": {
+      "LABEL": "Subject",
+      "ERROR": {
+        "REQUIRED": "Subject is required."
+      }
+    },
+    "MESSAGE": {
+      "LABEL": "Message",
+      "ERROR": {
+        "REQUIRED": "Message is required."
+      }
+    },
+    "ACTION": {
+      "SEND_EMAIL": "Send Email"
+    }
+  }
+}
