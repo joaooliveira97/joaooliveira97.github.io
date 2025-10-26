@@ -1,13 +1,13 @@
 {
   "pt": {
-    "summary": "Olá! Sou o João, desenvolvedor de software baseado no Porto, Portugal. Atualmente trabalho como desenvolvedor de software fullstack na Critical Techworks a desenvolver software para a empresa BMW.",
+    "summary": "Software Developer na Critical Techworks, onde desenvolvo soluções de software para a BMW. Um dos produtos em que trabalhei foi a Loja Online da BMW, uma experiência que me ensinou o que é trabalhar num produto de grande escala, com um elevado volume de utilizadores distribuídos por vários países. Tenho experiência em frontend e backend, tendo trabalhado com tecnologias como TypeScript, Angular e Java.",
     "skills": [
+      "Javascript/Typescript",
       "Java",
-      "Quarkus",
+      "Angular",
       "Rest APIs",
-      "Javascript",
-      "Typescript",
-      "Angular 2+",
+      "SQL",
+      "GIT",
       "Scrum Framework"
     ],
     "projects": [
@@ -34,18 +34,30 @@
         "image": "assets/logos/ctw_logo.svg",
         "entries": [
           {
-            "title": "Software Developer - BMW Shop",
-            "startDate": "janeiro 2023",
+            "title": "Software Developer",
+            "startDate": "fevereiro 2025",
             "endDate": "presente",
-            "details": []
+            "details": [
+              "Desenvolvimento para uma aplicação de suporte a gestores de materiais nas fábricas da BMW.",
+              "Angular e Java com Quarkus"
+            ]
           },
           {
-            "title": "Software Developer - Internal tools",
+            "title": "Software Developer - Loja Online BMW",
+            "startDate": "janeiro 2023",
+            "endDate": "fevereiro 2025",
+            "details": [
+              "Desenvolvimento para a loja online da BMW com foco na listagem de produtos e posteriormente no processo de checkout.",
+              "Next.js e typescript"
+            ]
+          },
+          {
+            "title": "Software Developer - Ferramentas Internas",
             "startDate": "maio 2021",
             "endDate": "dezembro 2022",
             "details": [
               "Desenvolvimento de algumas aplicações internas da empresa para dar suporte ao processo de desenvolvimento pessoal e reserva de carros da empresa",
-              "Desenvolvimento usando Angular e Java com Quarkus"
+              "Angular e Java com Quarkus"
             ]
           }
         ]
@@ -88,8 +100,7 @@
             "endDate": "2021",
             "details": [
               "Ramo de Engenharia de Software",
-              "Conclusão da componente letiva com exceção da tese.",
-              "Média de 14.7 valores."
+              "Conclusão da componente letiva com exceção da tese."
             ]
           },
           {
@@ -97,8 +108,7 @@
             "startDate": "2015",
             "endDate": "2018",
             "details": [
-              "Participação no projeto CDIO-IL (http://www.cdio.org/) durante o 2º semestre do 2º ano e 1º semestre do 3º ano da licenciatura (março 2017 - junho 2017, setembro 2017 - fevereiro 2018)",
-              "Média de 14 valores."
+              "Participação no projeto CDIO-IL (http://www.cdio.org/) durante o 2º semestre do 2º ano e 1º semestre do 3º ano da licenciatura (março 2017 - junho 2017, setembro 2017 - fevereiro 2018)"
             ]
           }
         ]
@@ -106,14 +116,14 @@
     ]
   },
   "en": {
-    "summary": "Hi! I'm João, a software developer based on Porto, Portugal. Currently I am working as a fullstack software developer at Critical Techworks developing software for the BMW company.",
+    "summary": "Software Developer at Critical Techworks, developing software solutions for BMW. One of the products I worked on was the BMW Online Shop, which taught me what it’s like to work on a large-scale product with a high volume of users across multiple countries. Experienced in both frontend and backend development, working with technologies such as TypeScript, Angular, and Java.",
     "skills": [
+      "Javascript/Typescript",
       "Java",
-      "Quarkus",
+      "Angular",
       "Rest APIs",
-      "Javascript",
-      "Typescript",
-      "Angular 2+",
+      "SQL",
+      "GIT",
       "Scrum Framework"
     ],
     "projects": [
@@ -134,10 +144,22 @@
         "image": "assets/logos/ctw_logo.svg",
         "entries": [
           {
-            "title": "Software Developer - BMW Shop",
+            "title": "Software Developer",
+            "startDate": "February 2025",
+            "endDate": "now",
+            "details": [
+              "Development for an application to support material managers on BMW factories",
+              "Angular and Java with Quarkus"
+            ]
+          },
+          {
+            "title": "Software Developer - Loja Online BMW",
             "startDate": "January 2023",
-            "endDate": "Now",
-            "details": []
+            "endDate": "February 2025",
+            "details": [
+              "Development for the BMW online shop focusing on the products list and later on in the checkout process",
+              "Next.js and typescript"
+            ]
           },
           {
             "title": "Software Developer - Internal tools",
@@ -145,7 +167,7 @@
             "endDate": "December 2022",
             "details": [
               "Working on some company internal tools to support the personal evolution process and company cars reservation",
-              "Development using Angular and Java with Quarkus"
+              "Angular and Java with Quarkus"
             ]
           }
         ]
@@ -188,8 +210,7 @@
             "endDate": "2021",
             "details": [
               "Branch of Software Engineering",
-              "Conclusion of the academic part (except the thesis)",
-              "Average of 14.7 values."
+              "Conclusion of the academic part (except the thesis)"
             ]
           },
           {
@@ -197,8 +218,7 @@
             "startDate": "2015",
             "endDate": "2018",
             "details": [
-              "Participation in the CDIO-IL project (http://www.cdio.org/) during the second half of the second year and the first half of the third year (March 2017 - June 2017, September 2017 - February 2018)",
-              "Average of 14 values."
+              "Participation in the CDIO-IL project (http://www.cdio.org/) during the second half of the second year and the first half of the third year (March 2017 - June 2017, September 2017 - February 2018)"
             ]
           }
         ]
