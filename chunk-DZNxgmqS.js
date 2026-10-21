@@ -1,0 +1,1 @@
+import{C as x,f as e0,m as g,o as NP,p as ee}from"./main-47L7A5JA.js";var f=(()=>{class t{constructor(){this.language=g(e0),this.data=NP(()=>`assets/data.json`),this.content=ee(()=>this.data.value()?.[this.language.current()])}static{this.ɵfac=function(i){return new(i||t)}}static{this.ɵprov=x({token:t,factory:t.ɵfac,providedIn:`root`})}}return t})();export{f as t};

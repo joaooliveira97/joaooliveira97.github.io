@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="192.4 400.4 237.1 237.1" width="256" height="256" role="img" aria-label="JO">
+  <title>JO</title>
+  <defs>
+    <linearGradient id="jo-grad" gradientUnits="userSpaceOnUse" x1="255" y1="466" x2="412" y2="582">
+      <stop offset="0" stop-color="#2f8cff"/>
+      <stop offset="0.25" stop-color="#2aa2ff"/>
+      <stop offset="0.45" stop-color="#22bdfa"/>
+      <stop offset="0.65" stop-color="#1fd2ec"/>
+      <stop offset="0.82" stop-color="#2ae3d4"/>
+      <stop offset="1" stop-color="#3cf0c0"/>
+    </linearGradient>
+    <filter id="jo-glow" filterUnits="userSpaceOnUse" x="150" y="400" width="300" height="240" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.2" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="b2"/>
+      <feComponentTransfer in="b2" result="b2a"><feFuncA type="linear" slope="0.3"/></feComponentTransfer>
+      <feMerge><feMergeNode in="b2a"/><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g id="icone" transform="">
+    
+    <g filter="url(#jo-glow)" fill="none" stroke="url(#jo-grad)" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M235.5 484 C240 487 243.5 490.5 243.5 497 L243.5 501.5 Q243.5 512 254 512 L283.00 512 Q287 512 287 508 A56 56 0 0 1 399 508 Q399 512 395 512 L366 512 A7.5 7.5 0 0 0 366 527 L382 527 A39 39 0 0 1 306.84 541.61" stroke-width="7.84"/>
+      <path d="M305 513 A38 38 0 0 1 381 512" stroke-width="7.84"/>
+      <path d="M400 528 A57 57 0 0 1 287.94 540.75" stroke-width="7.84"/>
+      <path d="M385.90 472.00 Q389.5 468.5 397 468.5 L411 468.5" stroke-width="7.84"/>
+      <path d="M373.50 461.03 L384.5 452.5" stroke-width="7.84"/>
+      <path d="M216 545 L234 545 C241 545 245 528 254 528 L323 528 A8 8 0 0 0 323 512 L316.5 512" stroke-width="7.84"/>
+      <path d="M323.5 530 L323.5 536 Q323.5 543 330.5 543 L344 543" stroke-width="7.84"/>
+      <path d="M237.36 512.44 A9.5 9.5 0 1 0 237.36 526.56" stroke-width="7.84"/>
+      <path d="M256.5 498 L256.5 462 Q256.5 458 260.5 458 L270.5 458 Q274.5 458 274.5 462 L274.5 498" stroke-width="7.84"/>
+      <path d="M257 542.5 L257 549 A17 17 0 0 1 240 566 L221.5 566" stroke-width="7.84"/>
+      <path d="M274.5 542.5 L274.5 549 A34.5 34.5 0 0 1 240 583.5 L221.5 583.5" stroke-width="7.84"/>
+      <path d="M221.5 566.0 A8.75 8.75 0 1 0 221.5 583.5 A8.75 8.75 0 1 0 221.5 566.0" stroke-width="7.84"/>
+      <path d="M220.6 473.5 A5.5 5.5 0 1 0 220.6 484.5 A5.5 5.5 0 1 0 220.6 473.5" stroke-width="5.60"/>
+      <path d="M395.0 453.0h2M340.0 496.0h2M352.6 496.0h2M354.0 543.6h2" stroke-width="7.39"/>
+    </g>
+  </g>
+</svg>
