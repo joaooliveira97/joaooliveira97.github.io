@@ -1,7 +1,11 @@
 {
   "GLOBAL": {
+    "SKIP_TO_CONTENT": "Saltar para o conteúdo",
     "HEADER": {
+      "LANGUAGE": "Idioma, atual: Português",
+      "DARK_MODE": "Modo escuro",
       "NAVBAR": {
+        "LABEL": "Principal",
         "LINKS": {
           "CAREER": "Carreira",
           "CONTACT": "Contacto",
@@ -11,9 +15,23 @@
         }
       }
     },
-    "FOOTER": {}
+    "FOOTER": {
+      "TITLE": "Vamos falar?",
+      "TEXT": "Encontras-me no LinkedIn."
+    },
+    "ACTIONS": {
+      "DOWNLOAD_CV": "Descarregar CV",
+      "CV_OTHER_LANGUAGE": "English version"
+    }
   },
-  "HOME": {},
+  "SECTIONS": {
+    "HOME": "Sobre mim",
+    "CAREER": "Carreira",
+    "EDUCATION": "Educação"
+  },
+  "HOME": {
+    "HEADLINE": "Software developer fullstack, no Porto."
+  },
   "PROJECTS": {},
   "CONTACT": {
     "NAME": {

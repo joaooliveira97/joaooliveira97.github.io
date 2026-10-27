@@ -1,11 +1,9 @@
-$text-color: black;
 $warning_color: red;
 
+// The site's petrol blue: the Axion primary scale 500-700 in styles.scss. Use var(--axion-color-primary-*) in components.
 $gradient_color_1: rgb(44, 83, 100);
 $gradient_color_2: rgb(32, 58, 67);
 $gradient_color_3: rgb(15, 32, 39);
-$language_selector_background: rgba($gradient_color_1, 0.85);
-$language_selector_color: white;
 
 //screen-sizes
 $screen_break_ptablet: 600px;
@@ -18,4 +16,8 @@ $banner_height: 30vh;
 $banner_skew_angle: 3deg;
 $navbar_min_height: 50px;
 
-$max_screen_width: 1800px;
+// Layout: every part of the page (navbar links, language and theme switches, sections, contact banner, footer)
+// lines up on one column at most $content_width wide, with $gutter on each side on smaller screens.
+// Backgrounds (banner photo, navbar bar) still span the whole width.
+$content_width: 1100px;
+$gutter: 20px;

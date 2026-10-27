@@ -37,6 +37,7 @@
             "title": "Software Developer - BMW Shop",
             "startDate": "janeiro 2023",
             "endDate": "presente",
+            "current": true,
             "details": []
           },
           {
@@ -137,6 +138,7 @@
             "title": "Software Developer - BMW Shop",
             "startDate": "January 2023",
             "endDate": "Now",
+            "current": true,
             "details": []
           },
           {
