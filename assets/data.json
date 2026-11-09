@@ -1,6 +1,6 @@
 {
   "pt": {
-    "summary": "Olá! Sou o João, desenvolvedor de software baseado no Porto, Portugal. Trabalho atualmente na BLIP, onde desenvolvo backend para a FanDuel. Antes disso já passei pela Critical TechWorks a desenvolver software para a BMW, incluindo a Loja Online da BMW, um produto de grande escala com muitos utilizadores em vários países. Tenho experiência em frontend e backend, com tecnologias como Java, TypeScript e Angular.",
+    "summary": "Olá! Sou o João, programador no Porto, Portugal. Trabalho atualmente na BLIP, onde desenvolvo backend para a FanDuel. Antes disso, passei pela Critical TechWorks, onde desenvolvi software para a BMW, incluindo a Loja Online da BMW, um produto de grande escala com muitos utilizadores em vários países. Tenho experiência em frontend e backend, com tecnologias como Java, TypeScript e Angular.",
     "skills": [
       "Java",
       "TypeScript",
@@ -66,11 +66,11 @@
             ]
           },
           {
-            "title": "Internal tools",
+            "title": "Ferramentas internas",
             "startDate": "maio 2021",
             "endDate": "dezembro 2022",
             "details": [
-              "Desenvolvimento de algumas aplicações internas da empresa para dar suporte ao processo de desenvolvimento pessoal e reserva de carros da empresa."
+              "Desenvolvimento de aplicações internas de apoio ao processo de desenvolvimento pessoal e à reserva de carros da empresa."
             ]
           }
         ]
@@ -85,7 +85,7 @@
             "endDate": "julho 2020",
             "details": [
               "Continuação do projeto iniciado no estágio curricular.",
-              "Desenvolvimento de aplicações mobile em Ionic para os utilizadores acederem à dashboard da sua conta em dispositivos móveis."
+              "Desenvolvimento de aplicações móveis em Ionic para os utilizadores acederem à dashboard da sua conta."
             ]
           },
           {
@@ -93,9 +93,9 @@
             "startDate": "março 2018",
             "endDate": "julho 2018",
             "details": [
-              "Reformulação do website da empresa, reconstruindo o mesmo de raiz utilizando Angular e NodeJS.",
-              "O Website consiste num portal para interação entre público e profissionais do setor dos casamentos.",
-              "Durante este estágio o foco foi a elaboração de um sistema de mensagens permitindo o contacto entre público e profissionais. O público tinha também a possibilidade de criar anúncios com foco numa área de negócio e distrito em vez de contactar os profissionais um a um."
+              "Reformulação do website da empresa, reconstruído de raiz em Angular e NodeJS.",
+              "O website é um portal de interação entre o público e os profissionais do setor dos casamentos.",
+              "Durante este estágio, o foco foi o desenvolvimento de um sistema de mensagens que permitia o contacto entre o público e os profissionais. O público podia também criar anúncios para uma área de negócio e um distrito, em vez de contactar os profissionais um a um."
             ]
           }
         ]
@@ -110,7 +110,7 @@
             "startDate": "2018",
             "endDate": "2021",
             "details": [
-              "Ramo de Engenharia de Software",
+              "Ramo de Engenharia de Software.",
               "Conclusão da componente letiva com exceção da tese."
             ]
           },
@@ -119,7 +119,7 @@
             "startDate": "2015",
             "endDate": "2018",
             "details": [
-              "Participação no projeto CDIO-IL (http://www.cdio.org/) durante o 2º semestre do 2º ano e 1º semestre do 3º ano da licenciatura (março 2017 - junho 2017, setembro 2017 - fevereiro 2018)"
+              "Participação no projeto CDIO-IL (http://www.cdio.org/) durante o 2.º semestre do 2.º ano e o 1.º semestre do 3.º ano da licenciatura (março a junho de 2017 e setembro de 2017 a fevereiro de 2018)."
             ]
           }
         ]

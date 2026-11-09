@@ -9,7 +9,7 @@
         "LINKS": {
           "CAREER": "Carreira",
           "CONTACT": "Contacto",
-          "EDUCATION": "Educação",
+          "EDUCATION": "Formação",
           "HOME": "Início",
           "PROJECTS": "Projetos"
         }
@@ -20,14 +20,14 @@
       "TEXT": "Encontras-me no LinkedIn."
     },
     "ACTIONS": {
-      "DOWNLOAD_CV": "Descarregar CV",
+      "DOWNLOAD_CV": "Download CV",
       "CV_OTHER_LANGUAGE": "English version"
     }
   },
   "SECTIONS": {
     "HOME": "Sobre mim",
     "CAREER": "Carreira",
-    "EDUCATION": "Educação"
+    "EDUCATION": "Formação"
   },
   "HOME": {
     "HEADLINE": "Software developer fullstack, no Porto."
