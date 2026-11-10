@@ -17,7 +17,8 @@
     },
     "FOOTER": {
       "TITLE": "Vamos falar?",
-      "TEXT": "Encontras-me no LinkedIn."
+      "TEXT": "Pode encontrar-me no LinkedIn.",
+      "PRIVACY": "Este site não usa cookies nem analytics e não recolhe dados pessoais. O idioma e o tema escolhidos ficam guardados apenas no navegador do visitante. O alojamento é do GitHub Pages, que regista os endereços IP dos visitantes por motivos de segurança."
     },
     "ACTIONS": {
       "DOWNLOAD_CV": "Download CV",

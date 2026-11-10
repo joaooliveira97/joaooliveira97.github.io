@@ -50,7 +50,7 @@
         "role": "Software Developer",
         "entries": [
           {
-            "title": "Fábricas BMW",
+            "title": "Gestão de Materiais BMW",
             "startDate": "fevereiro 2025",
             "endDate": "março 2026",
             "details": [
@@ -84,8 +84,7 @@
             "startDate": "maio 2019",
             "endDate": "julho 2020",
             "details": [
-              "Continuação do projeto iniciado no estágio curricular.",
-              "Desenvolvimento de aplicações móveis em Ionic para os utilizadores acederem à dashboard da sua conta."
+              "Continuação do projeto do estágio curricular, com o desenvolvimento de aplicações móveis em Ionic para os utilizadores acederem à dashboard da sua conta."
             ]
           },
           {
@@ -93,9 +92,7 @@
             "startDate": "março 2018",
             "endDate": "julho 2018",
             "details": [
-              "Reformulação do website da empresa, reconstruído de raiz em Angular e NodeJS.",
-              "O website é um portal de interação entre o público e os profissionais do setor dos casamentos.",
-              "Durante este estágio, o foco foi o desenvolvimento de um sistema de mensagens que permitia o contacto entre o público e os profissionais. O público podia também criar anúncios para uma área de negócio e um distrito, em vez de contactar os profissionais um a um."
+              "Reconstrução de raiz do website da empresa em Angular e NodeJS, um portal que liga o público aos profissionais do setor dos casamentos. O foco foi um sistema de mensagens entre o público e os profissionais e a criação de anúncios por área de negócio e distrito, para o público não ter de contactar os profissionais um a um."
             ]
           }
         ]
@@ -110,8 +107,7 @@
             "startDate": "2018",
             "endDate": "2021",
             "details": [
-              "Ramo de Engenharia de Software.",
-              "Conclusão da componente letiva com exceção da tese."
+              "Ramo de Engenharia de Software, com a componente letiva concluída, exceto a tese."
             ]
           },
           {
@@ -177,7 +173,7 @@
         "role": "Software Developer",
         "entries": [
           {
-            "title": "BMW Plants",
+            "title": "BMW Material Management",
             "startDate": "February 2025",
             "endDate": "March 2026",
             "details": [
@@ -197,7 +193,7 @@
             "startDate": "May 2021",
             "endDate": "December 2022",
             "details": [
-              "Working on some company internal tools to support the personal development process and company cars reservation."
+              "Development of internal tools to support the company's personal development process and company car reservations."
             ]
           }
         ]
@@ -211,8 +207,7 @@
             "startDate": "May 2019",
             "endDate": "July 2020",
             "details": [
-              "Continuation of the project started in the curricular internship.",
-              "Development of mobile applications using Ionic for the users to access the dashboard of their account on mobile devices."
+              "Continuation of the curricular internship project, developing Ionic mobile apps for users to access their account dashboard."
             ]
           },
           {
@@ -220,9 +215,7 @@
             "startDate": "March 2018",
             "endDate": "July 2018",
             "details": [
-              "Reformulation of the company website, rebuilding the same from scratch using Angular and NodeJS.",
-              "The website consists of a portal for interaction between the public and professionals from the wedding sector.",
-              "During this internship, the focus was on developing a message system allowing the contact between the public and professionals. The public users could also create announcements for a specific business area and district rather than contacting the professionals one by one."
+              "Rebuild of the company website from scratch with Angular and NodeJS, a portal connecting the public with professionals from the wedding sector. The focus was a messaging system between the public and the professionals, and announcements by business area and district, so the public didn't have to contact professionals one by one."
             ]
           }
         ]
@@ -237,8 +230,7 @@
             "startDate": "2018",
             "endDate": "2021",
             "details": [
-              "Branch of Software Engineering",
-              "Conclusion of the academic part (except the thesis)"
+              "Software Engineering branch, with all the coursework completed except the thesis."
             ]
           },
           {
@@ -246,7 +238,7 @@
             "startDate": "2015",
             "endDate": "2018",
             "details": [
-              "Participation in the CDIO-IL project (http://www.cdio.org/) during the second half of the second year and the first half of the third year (March 2017 - June 2017, September 2017 - February 2018)"
+              "Participation in the CDIO-IL project (http://www.cdio.org/) during the second half of the second year and the first half of the third year (March to June 2017 and September 2017 to February 2018)."
             ]
           }
         ]

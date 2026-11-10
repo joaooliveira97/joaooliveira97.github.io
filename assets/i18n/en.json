@@ -17,7 +17,8 @@
     },
     "FOOTER": {
       "TITLE": "Let's talk?",
-      "TEXT": "You can find me on LinkedIn."
+      "TEXT": "You can find me on LinkedIn.",
+      "PRIVACY": "This site uses no cookies or analytics and collects no personal data. Your language and theme choices are saved only in your browser. It is hosted on GitHub Pages, which logs visitors' IP addresses for security."
     },
     "ACTIONS": {
       "DOWNLOAD_CV": "Download CV",
